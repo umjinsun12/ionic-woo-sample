@@ -1,0 +1,34 @@
+Update Note - 5.1
+Bug Fixes - Deleted loadSerach function in search-service.ts file
+Update Note - 5.0
+WooCommerce update - WooCommerce update 3.2, Cart.html, billing-address-form.html
+Update Plugin - Update mstoreapp-mobile-app wordpress plugin
+Update Note - 4.1
+Minor bug fixes - Fixes warning unused imports while run ionic serve
+Update Note - 4.0
+1. OneSignal Push Notification - Send push from wordpress admin panel
+2. Reinstall Mstoreapp Mobile App plugin - (Upload mstoreapp-mobile-app to you wordpress plugin directory to use push from Wordpress admin panel)
+3. Install OneSignal Wordpress Plugin - https://wordpress.org/plugins/onesignal-free-web-push-notifications/
+Update Note - 3.2
+1. Fix error in checkout - not able view order summary after payment
+Update Note - 3.1
+1. Document Update
+Update Note - 3.0
+1. Update to ionic 3.x
+2. Uninstall Raham-api wordpress plugin
+3. Install mstoreapp-mobile-app
+3. Supports Push Notification Plugin
+4. Added Wishlist
+5. Added Lazy Loading
+Update Note - 2.0
+1. Updated to ionic 3
+2. Supports for WooCommerce 3.x
+3. Multilingual i18n and ng-translate
+4. Supports RTL
+5. Multiple themes
+6. Chnage in Wordpress Plugin - Uninstall JSON-API plugin wordpress plugin and install RAHAM-API
+
+Note Update - 1.1
+1. Improved Design
+2. Support Variation Products
+3. Update raham.php file - Replace raham.php file in your server ~/wp-content/plugins/json-api/controllers/raham.php
